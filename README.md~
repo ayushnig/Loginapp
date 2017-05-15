@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+ Install packages: `npm install`
+ Launch: `node server.js`
+ `http://localhost:8080`
+
+
+
+=======
+# Loginapp
+Node and Mongo Pre-requiste
+>>>>>>> 8ee0210c10e65f8da4f71353478ef53dc841ef1a
